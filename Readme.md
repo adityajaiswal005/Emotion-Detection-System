@@ -52,25 +52,25 @@ You need a CSV file named **`emotion_detection.csv`** containing at least two co
 | That scared me a lot | fear |
 
 
-# 1️⃣ Clone this repository
+#  Clone this repository
 ```
 git clone https://github.com/adityajaiswal005/Emotion-Detection.git
 ```
 
-# 2️⃣ Install dependencies
+#  Install dependencies
 ```
 pip install streamlit pandas numpy scikit-learn matplotlib 
 
 ```
 
 
-# 3️⃣ Train the model
+#  Train the model
 ```
 python model.py
 
 ```
 
-# 4️⃣ Run the Streamlit app
+#  Run the Streamlit app
 ```
 streamlit run app.py
 ```

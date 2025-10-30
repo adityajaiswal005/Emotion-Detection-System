@@ -57,9 +57,9 @@ git clone https://github.com/your-username/Emotion-Detection.git
 cd Emotion-Detection
 
 # 2️⃣ Install dependencies
-
+'''
 pip install streamlit pandas numpy scikit-learn matplotlib 
-
+'''
 
 
 # 3️⃣ Train the model

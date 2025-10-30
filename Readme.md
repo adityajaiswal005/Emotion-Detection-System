@@ -53,8 +53,9 @@ You need a CSV file named **`emotion_detection.csv`** containing at least two co
 
 
 # 1️⃣ Clone this repository
-git clone https://github.com/your-username/Emotion-Detection.git
-cd Emotion-Detection
+```
+git clone https://github.com/adityajaiswal005/Emotion-Detection.git
+```
 
 # 2️⃣ Install dependencies
 ```
@@ -64,8 +65,13 @@ pip install streamlit pandas numpy scikit-learn matplotlib
 
 
 # 3️⃣ Train the model
+```
 python model.py
 
+```
+
 # 4️⃣ Run the Streamlit app
+```
 streamlit run app.py
+```
 
